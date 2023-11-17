@@ -9,7 +9,9 @@
   <img width="46px" height="46px" alt="javascript" src="logo-javascript.svg" />
   <img width="46px" height="46px" alt="typescript" src="logo-typescript.svg" />
   <img width="46px" height="46px" alt="nodejs" src="logo-nodejs-green.svg" />
+  <img width="46px" height="46px" alt="nestjs" src="https://nestjs.com/logo-small.ede75a6b.svg" />
   <img width="46px" height="46px" alt="react" src="logo-react.svg" />
+  <img width="46px" height="46px" alt="nextjs" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title="Next.js" />
   <img width="46px" height="46px" alt="graphql" src="logo-graphql.svg" />
 </div>
 
