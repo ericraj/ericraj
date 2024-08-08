@@ -6,12 +6,12 @@
 </div>
 
 <div style="border-radius:4px; padding:20px; width: fit-content; margin-top:10px; display:grid; grid-template-columns:repeat(5, 46px); grid-gap:20px">
-  <img width="46px" height="46px" alt="javascript" src="logo-javascript.svg" />
-  <img width="46px" height="46px" alt="typescript" src="logo-typescript.svg" />
   <img width="46px" height="46px" alt="nodejs" src="logo-nodejs-green.svg" />
-  <img width="46px" height="46px" alt="nestjs" src="https://nestjs.com/logo-small.ede75a6b.svg" />
+  <img width="46px" height="46px" alt="nestjs" src="logo-nestjs.svg" />
   <img width="46px" height="46px" alt="react" src="logo-react.svg" />
-  <img width="46px" height="46px" alt="nextjs" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title="Next.js" />
+  <span style="background:white;width:46;height:46;border-radius:50%;overflow:hidden">
+   <img width="46px" height="46px" alt="nextjs" src="nextjs-icon-svgrepo-com.svg" title="Next.js" />
+  </span>
   <img width="46px" height="46px" alt="graphql" src="logo-graphql.svg" />
 </div>
 
